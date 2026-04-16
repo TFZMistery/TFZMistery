@@ -1,4 +1,5 @@
-## Hi there 👋
+- name: generate-snake-game-from-github-contribution-grid
+  uses: Platane/snk@v3.4.1
 
 <!--
 **TFZMistery/TFZMistery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
